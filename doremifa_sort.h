@@ -1,3 +1,8 @@
+/*
+    DoReMiFaSort
+    English  : http://doremifasort.web.fc2.com/doremifasort_eng.html
+    Japanese : http://doremifasort.web.fc2.com/doremifasort.html
+*/
 #pragma once
 
 #include <cstdint>
